@@ -10,6 +10,18 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+Assets/MapMagic/**
+Assets/Free/**
+Assets/MapMinimap/**
+Assets/GreenMossGames/**
+Assets/TextMeshPro/**
+Assets/PolygonFantasyKingdom/**
+Assets/PolygonFantasyCharacter/**
+Assets/polyperfect/**
+Assets/Sohail/**
+Assets/BK/**
+Assets/MicroVerse-Extras/**
+Assets/TextMesh Pro/**
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
